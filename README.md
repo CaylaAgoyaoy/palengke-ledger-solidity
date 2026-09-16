@@ -7,9 +7,7 @@ Ethereum Sepolia
 ## Student Information
 
 **Student Name:** 
-Cayla Agoyaoy
-Christian Peralta
-Sairon Francisco
+Cayla Agoyaoy, Christian Peralta, Sairon Francisco
 
 **Program / Section:** 
 BSIT 4-PACED
